@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartRetailPOS</string>
+    <string name="pos_title">Smart POS Terminal Kasir</string>
+    <string name="pos_subtitle">Simulasi Transaksi &amp; Error Handling - Modul 12</string>
+    <string name="hint_barcode">Contoh: 8991201 (Normal), 999 (Error), 888 (Timeout)</string>
+    <string name="hint_nominal">Nominal Harga Satuan (Rp)</string>
+    <string name="hint_qty">Kuantitas (Qty)</string>
+    <string name="btn_process">Proses Pembayaran</string>
+    <string name="btn_open_pos">Buka Layar Simulasi POS</string>
+    <string name="calc_title">Latihan Kalkulasi Sederhana (runCatching)</string>
+    <string name="btn_calculate">Hitung Kalkulasi</string>
+</resources>
